@@ -46,5 +46,34 @@ function atualizarListaNaTela() {
 
 // Função de sorteio (placeholder, para implementar depois)
 function sortearAmigo() {
-    alert("Função de sorteio ainda será implementada.");
+    
+
+    let resultado = document.getElementById("resultado");
+   
+
+    // Valida se há amigos na lista
+    if (listaDeAmigos.length === 0) {
+        //resultado.innerHTML = "<li>Nenhum amigo para sortear.</li>";
+        //return;
+        alert('Por favor, insira seus amigos para sorteio!');
+    }
+     else {
+    // Gera índice aleatório
+    let indice = parseInt(Math.floor(Math.random() * listaDeAmigos.length));
+
+    // Obtém o nome correspondente
+    let nomeSorteado = listaDeAmigos[indice];
+
+    //mostra no console
+    console.log(listaDeAmigos[indice]);
+    console.log(indice);
+
+
+    // Exibe o resultado na tela
+    resultado.innerHTML = "<li>Amigo sorteado: " + nomeSorteado + "</li>";
+    }
 }
+
+
+
+
