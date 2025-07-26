@@ -44,7 +44,7 @@ function atualizarListaNaTela() {
 
 
 
-// Função de sorteio (placeholder, para implementar depois)
+// Função para sortear amigo
 function sortearAmigo() {
     
 
@@ -53,8 +53,7 @@ function sortearAmigo() {
 
     // Valida se há amigos na lista
     if (listaDeAmigos.length === 0) {
-        //resultado.innerHTML = "<li>Nenhum amigo para sortear.</li>";
-        //return;
+
         alert('Por favor, insira seus amigos para sorteio!');
     }
      else {
@@ -63,10 +62,6 @@ function sortearAmigo() {
 
     // Obtém o nome correspondente
     let nomeSorteado = listaDeAmigos[indice];
-
-    //mostra no console
-    console.log(listaDeAmigos[indice]);
-    console.log(indice);
 
 
     // Exibe o resultado na tela
