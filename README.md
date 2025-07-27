@@ -66,3 +66,5 @@ Feito para fins de aprendizado e prática de JavaScript. (Oracle Next Education)
 ---
 
 ## 📝 Licença
+
+> :memo: **Note:** Este projeto está sob a licença MIT. Sinta-se à vontade para usar, modificar e compartilhar.
