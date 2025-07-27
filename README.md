@@ -54,7 +54,7 @@ projeto-amigo-secreto/
 
 ---
 
-## 📸 Captura de tela (opcional)
+## 📸 Captura de tela
 
 ![Captura de Tela do Projeto](assets/pagina-amigo-secreto.png)
 
