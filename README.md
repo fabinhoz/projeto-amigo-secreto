@@ -31,14 +31,14 @@ A interface é limpa e amigável, com campos de entrada, botões e listas organi
 ## 📂 Estrutura de arquivos
 
 projeto-amigo-secreto/
-├── index.html                      # Página principal do aplicativo
-├── style.css                       # Estilos da aplicação
-├── app.js                          # Lógica e funcionalidades em JavaScript
-├── assets/                         # Arquivos de mídia e imagens
-│   ├── amigo-secreto.png           # Logo ou imagem decorativa
-│   ├── pagina-amigo-secreto.png    # Captura de tela da aplicação
-│   └── play_circle_outline.png     # Ícone utilizado na interface
-└── README.md                       # Documentação do projeto
+├── index.html                      
+├── style.css                       
+├── app.js                          
+├── assets/                         
+│   ├── amigo-secreto.png           
+│   ├── pagina-amigo-secreto.png    
+│   └── play_circle_outline.png     
+└── README.md                       
 
 
 
