@@ -59,7 +59,7 @@ amigo-secreto/
 ## 👨‍💻 Autor
 
 Desenvolvido por Fábio.  
-Feito para fins de aprendizado e prática de JavaScript. (Challenge Next One Oracle)
+Feito para fins de aprendizado e prática de JavaScript. (Oracle Next Education)
 
 ---
 
