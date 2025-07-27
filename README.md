@@ -31,16 +31,14 @@ A interface é limpa e amigável, com campos de entrada, botões e listas organi
 ## 📂 Estrutura de arquivos
 
 projeto-amigo-secreto/
-├── index.html                      
-├── style.css                       
-├── app.js                          
-├── assets/                         
-│   ├── amigo-secreto.png           
-│   ├── pagina-amigo-secreto.png    
-│   └── play_circle_outline.png     
-└── README.md                       
-
-
+├── index.html
+├── style.css
+├── app.js
+├── assets/
+│   ├── amigo-secreto.png
+│   ├── pagina-amigo-secreto.png
+│   └── play_circle_outline.png
+└── README.md
 
 ---
 
