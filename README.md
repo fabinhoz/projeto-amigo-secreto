@@ -69,12 +69,6 @@ projeto-amigo-secreto/
 
 ---
 
-## 📄 Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
----
-
 ## 👨‍💻 Autor
 
 Desenvolvido por [Fabinhoz](https://github.com/fabinhoz)  
