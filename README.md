@@ -1,6 +1,7 @@
 # 🎁 Amigo Secreto
 
 Simulador interativo de sorteio de amigo secreto usando HTML, CSS e JavaScript.
+Um projeto simples e divertido para realizar sorteios entre amigos — ideal para festas, confraternizações e fins didáticos.
 
 🔗 [Link do repositório no GitHub](https://github.com/fabinhoz/projeto-amigo-secreto)
 
@@ -20,6 +21,7 @@ Simulador interativo de sorteio de amigo secreto usando HTML, CSS e JavaScript.
 - Navegador moderno (Chrome, Firefox, Edge, etc.)
 - Nenhuma instalação adicional é necessária
 
+---
 
 ## 🖼️ Interface
 
@@ -67,10 +69,16 @@ projeto-amigo-secreto/
 
 ---
 
+## 📄 Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
+
+---
+
 ## 👨‍💻 Autor
 
-Desenvolvido por fabinhoz.  
-Feito para fins de aprendizado e prática de JavaScript. (Oracle Next Education)
+Desenvolvido por [Fabinhoz](https://github.com/fabinhoz)  
+Feito para fins de aprendizado no programa **Oracle Next Education**.
 
 ---
 
