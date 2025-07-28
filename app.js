@@ -37,7 +37,7 @@ function atualizarListaNaTela() {
     // Percorre o array e adiciona cada amigo como <li>
     let i = 0;
     while (i < listaDeAmigos.length) {
-        ul.innerHTML += "<li>" + listaDeAmigos[i] + "</li>";
+        ul.innerHTML = ul.innerHTML + "<li>" + listaDeAmigos[i] + "</li>";
         i++;
     }
 }
