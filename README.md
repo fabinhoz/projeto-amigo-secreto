@@ -16,6 +16,11 @@ Simulador interativo de sorteio de amigo secreto usando HTML, CSS e JavaScript.
 
 ---
 
+## 🛠️ Requisitos
+- Navegador moderno (Chrome, Firefox, Edge, etc.)
+- Nenhuma instalação adicional é necessária
+
+
 ## 🖼️ Interface
 
 A interface é limpa e amigável, com campos de entrada, botões e listas organizadas. O sorteio pode ser acionado com um clique.
